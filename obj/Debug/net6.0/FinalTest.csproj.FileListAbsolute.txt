@@ -1,0 +1,15 @@
+D:\Git_Hub\FinalTest\bin\Debug\net6.0\FinalTest.exe
+D:\Git_Hub\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+D:\Git_Hub\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+D:\Git_Hub\FinalTest\bin\Debug\net6.0\FinalTest.dll
+D:\Git_Hub\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.dll
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+D:\Git_Hub\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
